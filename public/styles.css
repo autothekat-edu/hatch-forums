@@ -103,6 +103,9 @@ input,
     border: none;
     color: #ffffff;
 }
+.post-content-container img, textarea img, input img, #new_post_content_preview_container img {
+    max-width: 90%;
+}
 
 textarea {
     margin: 0;
